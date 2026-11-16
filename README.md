@@ -10,14 +10,10 @@ Siga os passos abaixo para rodar a aplicação na sua máquina:
 ### 2. Passos para execução
 ```bash
 # 1. Clone o repositório e acesse a pasta do projeto
-git clone [https://github.com/williamlourenco-dev/oficinas.git](https://github.com/williamlourenco-dev/oficinas.git)
-cd pos-fullstack-backend-1
+git clone [https://github.com/williamlourenco-dev/oficinas-atv1.git](https://github.com/williamlourenco-dev/oficinas-atv1.git)
 
-# 2. Mude para a branch da Avaliação 01
-git checkout avaliacao-01
-
-# 3. Instale as dependências
+# 2. Instale as dependências
 npm install
 
-# 4. Inicie a aplicação
+# 3. Inicie a aplicação
 npm start
